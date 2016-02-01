@@ -1,7 +1,7 @@
 name: David Ryman
 favicon: null
-layout_spectrum: 0.49954
-typography_spectrum: 0
+layout_spectrum: 1
+typography_spectrum: 1
 title: "What's The Gov'na doing?"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c377b8'
     - '#efa896'
     - '#0036bc'
-  brandStrength: 0.125
+  brandStrength: 1
   lightness: 0.6523261647671461
-  saturation: 0.625
-  rhythmicContrast: 0.4228136125020683
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
