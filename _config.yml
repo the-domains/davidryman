@@ -1,0 +1,28 @@
+name: David Ryman
+favicon: null
+layout_spectrum: 0.49954
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fcfffa'
+    - '#080607'
+    - '#c377b8'
+    - '#efa896'
+    - '#0036bc'
+  brandStrength: 0.3125
+  lightness: 0.6523261647671461
+  saturation: 0.625
+  rhythmicContrast: 0.4228136125020683
+purpose: []
