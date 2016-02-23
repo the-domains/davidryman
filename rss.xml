@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[What's The Gov'na doing?]]></title>
-        <description><![CDATA[What's The Gov'na doing?]]></description>
+        <title><![CDATA[What's Govna doing?]]></title>
+        <description><![CDATA[What's Govna doing?]]></description>
         <link>https://thegrid.ai/davidryman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 20:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 20:56:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidryman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wood 'n' Stuff]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/davidryman/b6cd07ca-a714-4790-97fd-d5aeef24789a/index.html</link>
             <guid isPermaLink="false">b6cd07ca-a714-4790-97fd-d5aeef24789a</guid>
             <pubDate>Tue, 02 Feb 2016 20:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Printing and other CNC]]></title>
-            <description><![CDATA[<article><h1>3D Printing and other CNC</h1><p>3D Printing and CNC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08b04333e7e91cf7677b0505bdaf375297933032.jpg"></article>]]></description>
-            <link>https://thegrid.ai/davidryman/9b806bd0-d6fb-448f-b550-4985cb9d0b32/index.html</link>
-            <guid isPermaLink="false">9b806bd0-d6fb-448f-b550-4985cb9d0b32</guid>
-            <pubDate>Mon, 01 Feb 2016 23:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
