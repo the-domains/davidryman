@@ -4,14 +4,21 @@
         <description><![CDATA[What's Govna doing?]]></description>
         <link>https://thegrid.ai/davidryman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 20:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 21:39:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidryman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wood 'n' Stuff]]></title>
-            <description><![CDATA[<article><h1>Wood 'n' Stuff</h1><p>Wood and allied materials</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435ef28d45ab7fb49da7edfa430ae37923242147.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/830f64a7-aa2a-4c0b-8358-bc976cd7410b.JPG">]]></description>
             <link>https://thegrid.ai/davidryman/b6cd07ca-a714-4790-97fd-d5aeef24789a/index.html</link>
             <guid isPermaLink="false">b6cd07ca-a714-4790-97fd-d5aeef24789a</guid>
             <pubDate>Tue, 02 Feb 2016 20:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ducky</p>]]></description>
+            <link>https://thegrid.ai/davidryman/ducky/index.html</link>
+            <guid isPermaLink="false">3716fc14-411e-4e35-bfd1-a982c6af53dd</guid>
+            <pubDate>Sat, 16 Jul 2016 21:39:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
