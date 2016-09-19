@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-19T20:26:46.000Z'
+datePublished: '2016-09-19T20:27:35.410Z'
 sourcePath: _posts/2016-09-19-flow-based-programming.md
 inFeed: true
 author:
-  - url: 'http://www.jpaulmorrison.com/fbp/'
+  - url: 'http://www.jpaulmorrison.com/index.shtml'
     name: J Paul Morrison
 via: {}
-dateModified: '2016-09-19T20:26:45.602Z'
+dateModified: '2016-09-19T20:27:35.069Z'
 title: Flow Based Programming
 publisher:
   name: David Ryman
