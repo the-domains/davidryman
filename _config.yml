@@ -1,5 +1,6 @@
-layout_spectrum: 0.13800515793263912
 typography_spectrum: 0.3226321842521429
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FF6600'
@@ -16,10 +17,17 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.13800515793263912
 analytics:
   google: UA-73235101-1
   facebook: null
   twitter: null
+author:
+  name: David Ryman
+  email: Linux@davidryman.com
+  url: 'https://s87607151.onlinehome.us/v2/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/20a6c71d-8252-4a51-a789-9f3721ec528f.jpg
 name: David Ryman
 cta:
   domain: null
@@ -35,7 +43,8 @@ navigation:
   - name: Consulting
     url: 'https://jobs.davidryman.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b85c9d3-43da-4aab-9efd-1b26a9c231c7.jpg
 title: What's Govna doing?
 purpose:
   - type: contact
