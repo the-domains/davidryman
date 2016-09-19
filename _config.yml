@@ -1,20 +1,4 @@
-name: David Ryman
-favicon: null
-layout_spectrum: 0.24997
 typography_spectrum: 0.05662
-title: What's Govna doing?
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73235101-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000200'
@@ -26,4 +10,37 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24997
+analytics:
+  google: UA-73235101-1
+  facebook: null
+  twitter: null
+name: David Ryman
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: David Ryman V2.0
+    url: 'https://http://s87607151.onlinehome.us/v2/'
+    type: external
+  - name: Thingiverse
+    url: 'http://www.thingiverse.com/davidryman/about'
+    type: external
+  - name: Consulting
+    url: 'https://jobs.davidryman.com'
+    type: external
+favicon: null
+title: What's Govna doing?
+purpose:
+  - type: contact
+    url: 'mailto:DavidRyman714@gmail.com'
+    label: Contact me
+  - type: external
+    url: 'https://www.facebook.com/drdavidryman'
+    label: Facebook drdavidryman
