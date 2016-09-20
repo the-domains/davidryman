@@ -1,6 +1,5 @@
-typography_spectrum: 0.3226321842521429
-content_rating:
-  adult: false
+layout_spectrum: 0.13800515793263912
+typography_spectrum: 0.7876978954300284
 color:
   brandColors:
     - '#FF6600'
@@ -12,12 +11,13 @@ color:
   lightness: 0.17251486470922828
   saturation: 0.21076206071302295
   rhythmicContrast: 0.9491905991453677
+content_rating:
+  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.13800515793263912
 analytics:
   google: UA-73235101-1
   facebook: null
