@@ -41,6 +41,9 @@ navigation:
   - name: Thingiverse
     url: 'http://www.thingiverse.com/davidryman/about'
     type: external
+  - name: Consulting
+    url: 'http://jobs.david.ryman.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b85c9d3-43da-4aab-9efd-1b26a9c231c7.jpg
 title: I got an idea
