@@ -41,6 +41,9 @@ navigation:
   - name: Version 2.0
     url: 'http://s87607151.onlinehome.us/v2/'
     type: external
+  - name: Consulting
+    url: 'http://jobs.davidryman.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b85c9d3-43da-4aab-9efd-1b26a9c231c7.jpg
 title: I got an idea
