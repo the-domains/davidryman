@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-09-19T20:54:05.877Z'
+datePublished: '2016-09-20T23:05:04.685Z'
+sourcePath: _posts/2016-09-19-kawasaki-el900-eliminator.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-19T20:52:56.567Z'
-title: ''
+dateModified: '2016-09-20T23:05:04.311Z'
+title: Kawasaki EL900 Eliminator
 publisher:
   name: David Ryman
-description: Kawasaki EL900 Eliminator
+description: ''
 starred: false
-sourcePath: _posts/2016-09-19-kawasaki-el900-eliminator.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b551545c-497c-4ae6-9c66-972f064dcbc4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aa08869-0961-4a76-8e61-5d21ac61172b.jpg)
 
-Kawasaki EL900 Eliminator
+# Kawasaki EL900 Eliminator
