@@ -1,5 +1,6 @@
-layout_spectrum: 0.13800515793263912
 typography_spectrum: 0.7876978954300284
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FF6600'
@@ -11,13 +12,13 @@ color:
   lightness: 0.17251486470922828
   saturation: 0.21076206071302295
   rhythmicContrast: 0.9491905991453677
-content_rating:
-  adult: false
 github: true
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafbd416-7400-4072-9499-d2e06be8d4d0.png
   type: null
   appId: null
+layout_spectrum: 0.13800515793263912
 analytics:
   google: UA-73235101-1
   facebook: null
