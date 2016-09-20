@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[What's Govna doing?]]></title>
-        <description><![CDATA[What's Govna doing?]]></description>
+        <title><![CDATA[I got an idea]]></title>
+        <description><![CDATA[I got an idea]]></description>
         <link>https://thegrid.ai/davidryman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Sep 2016 18:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2016 19:52:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidryman/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2016 20:50:59 GMT</pubDate>
+        <pubDate>Tue, 20 Sep 2016 19:52:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Just testing]]></title>
+            <description><![CDATA[<article><h1>Just testing</h1><p>Screen shot 3 - unpublished admin</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cc48d1-69aa-4120-8f16-804f5b22a012.png"></article>]]></description>
+            <link>https://thegrid.ai/davidryman/just-testing/index.html</link>
+            <guid isPermaLink="false">0f243753-b184-4f92-b21f-b7a7f9a53b3a</guid>
+            <pubDate>Tue, 20 Sep 2016 19:44:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cbb7e-4a7a-49f2-9856-f9f83755cf1f.jpg">]]></description>
