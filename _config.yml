@@ -35,9 +35,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: David Ryman V2.0
-    url: 'https://http://s87607151.onlinehome.us/v2/'
-    type: external
   - name: Thingiverse
     url: 'http://www.thingiverse.com/davidryman/about'
     type: external
