@@ -35,9 +35,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Consulting
-    url: 'http://jobs.david.ryman.com'
-    type: external
   - name: Thingiverse
     url: 'http://www.thingiverse.com/davidryman/about'
     type: external
