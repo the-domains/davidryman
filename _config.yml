@@ -1,6 +1,5 @@
-typography_spectrum: 0.9441824639216065
-content_rating:
-  adult: false
+layout_spectrum: 0.6932240971364081
+typography_spectrum: 0.19985843752510846
 color:
   brandColors:
     - '#B4AF91'
@@ -12,13 +11,14 @@ color:
   lightness: 0.3742540767416358
   saturation: 0.9182735229842365
   rhythmicContrast: 0.3067194854374975
+content_rating:
+  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafbd416-7400-4072-9499-d2e06be8d4d0.png
   type: null
   appId: null
-layout_spectrum: 0.6932240971364081
 analytics:
   google: UA-73235101-1
   facebook: '1703321536657152'
@@ -49,7 +49,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b85c9d3-43da-4aab-9efd-1b26a9c231c7.jpg
-title: I got an idea!
+title: I got an idea
 purpose:
   - type: contact
     url: 'mailto:DavidRyman714@gmail.com'
