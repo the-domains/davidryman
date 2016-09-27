@@ -4,22 +4,15 @@
         <description><![CDATA[I got an idea]]></description>
         <link>https://thegrid.ai/davidryman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Sep 2016 02:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2016 17:30:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidryman/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Sep 2016 02:24:57 GMT</pubDate>
+        <pubDate>Tue, 27 Sep 2016 17:29:30 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cbb7e-4a7a-49f2-9856-f9f83755cf1f.jpg">]]></description>
             <link>https://thegrid.ai/davidryman/ducky/index.html</link>
             <guid isPermaLink="false">3716fc14-411e-4e35-bfd1-a982c6af53dd</guid>
             <pubDate>Wed, 03 Aug 2016 20:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life with Bikes]]></title>
-            <description><![CDATA[<article><h1>Life with Bikes</h1><p>A History of biker’s transport</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b5d5bd3-1826-4a76-a4cc-2b521184ec56.jpg"></article>]]></description>
-            <link>https://thegrid.ai/davidryman/life-with-bikes/index.html</link>
-            <guid isPermaLink="false">e3d1fba6-08ba-40e8-b249-e5d17fca3258</guid>
-            <pubDate>Sat, 24 Sep 2016 02:24:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
