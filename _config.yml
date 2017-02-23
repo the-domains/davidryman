@@ -49,7 +49,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b85c9d3-43da-4aab-9efd-1b26a9c231c7.jpg
-title: I got an idea
+title: David
 purpose:
   - type: contact
     url: 'mailto:DavidRyman714@gmail.com'
@@ -57,3 +57,5 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/drdavidryman'
     label: Facebook drdavidryman
+content: []
+description: ''
