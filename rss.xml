@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I got an idea]]></title>
-        <description><![CDATA[I got an idea]]></description>
+        <title><![CDATA[David Ryman]]></title>
+        <description><![CDATA[David Ryman]]></description>
         <link>https://thegrid.ai/davidryman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Sep 2016 17:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2017 21:17:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidryman/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 27 Sep 2016 17:29:30 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cbb7e-4a7a-49f2-9856-f9f83755cf1f.jpg">]]></description>
+            <description><![CDATA[<p>Ducky</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cbb7e-4a7a-49f2-9856-f9f83755cf1f.jpg">]]></description>
             <link>https://thegrid.ai/davidryman/ducky/index.html</link>
             <guid isPermaLink="false">3716fc14-411e-4e35-bfd1-a982c6af53dd</guid>
             <pubDate>Wed, 03 Aug 2016 20:10:54 GMT</pubDate>
