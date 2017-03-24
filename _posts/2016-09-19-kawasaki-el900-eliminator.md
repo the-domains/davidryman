@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-23T22:21:13.207Z'
+datePublished: '2017-03-24T19:00:16.787Z'
 sourcePath: _posts/2016-09-19-kawasaki-el900-eliminator.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-23T22:21:12.865Z'
+dateModified: '2017-03-24T19:00:16.400Z'
 title: Kawasaki EL900 Eliminator
 publisher:
   name: David Ryman
