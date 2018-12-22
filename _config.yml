@@ -1,5 +1,6 @@
-layout_spectrum: 0.27182958465244733
 typography_spectrum: 0.7394319387629518
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#16193B'
@@ -11,14 +12,13 @@ color:
   lightness: 0.17008634353370067
   saturation: 0.1267306603789145
   rhythmicContrast: 0.7147662570556201
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafbd416-7400-4072-9499-d2e06be8d4d0.png
   type: null
   appId: null
+layout_spectrum: 0.27182958465244733
 analytics:
   google: UA-73235101-1
   facebook: '1703321536657152'
@@ -50,6 +50,9 @@ navigation:
   - name: Thingiverse
     url: 'http://www.thingiverse.com/davidryman/about'
     type: external
+  - name: $$$
+    id: 5ed757cc-7152-4f70-b391-d5e6a6e885d9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b85c9d3-43da-4aab-9efd-1b26a9c231c7.jpg
 title: David Ryman
