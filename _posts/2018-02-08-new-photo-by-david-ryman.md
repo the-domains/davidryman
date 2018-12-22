@@ -1,16 +1,16 @@
 ---
-dateModified: '2018-02-08T01:15:36.389Z'
+dateModified: '2018-12-22T20:19:26.565Z'
 via: {}
 inFeed: true
 description: ''
 title: New photo by David Ryman
 publisher: {}
 author: []
-datePublished: '2018-02-08T01:15:48.041Z'
+datePublished: '2018-12-22T20:19:28.107Z'
 hasPage: true
+sourcePath: _posts/2018-02-08-new-photo-by-david-ryman.md
 starred: true
 datePublishedOriginal: '2018-02-08T01:15:48.041Z'
-sourcePath: _posts/2018-02-08-new-photo-by-david-ryman.md
 url: new-photo-by-david-ryman/index.html
 _type: Article
 
